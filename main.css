@@ -4,6 +4,10 @@
 
     font-family: 'Ubuntu', sans-serif;*/
 
+#notlogo {
+    font-size: 50px
+}
+
 h1, h2 {
     font-family: 'Ubuntu', sans-serif;
 }
