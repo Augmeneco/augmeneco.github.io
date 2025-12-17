@@ -37,6 +37,10 @@ p, a, li {
     color: black;
 }
 
+li {
+    margin-bottom: 10px;
+}
+
 .center {
     margin-top: 20px;
     margin-left: auto;
